@@ -73,7 +73,7 @@ Will have future changes in the next days!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<p> You can see the page <a href="https://enmanuelbayen.github.io/Awesome-Books/" target="_blank" rel="noopener noreferrer"> here!</a> </p>  
+<p> You can see the page <a href="https://enmanuelbayen.github.io/Awesome-Books-ES6/" target="_blank" rel="noopener noreferrer"> here!</a> </p>  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

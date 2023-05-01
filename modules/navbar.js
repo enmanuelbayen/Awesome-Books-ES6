@@ -1,4 +1,3 @@
-
 // const listNav = document.getElementById('list-page');
 // const addNewNav = document.getElementById('add-list');
 // const contactNav = document.getElementById('contact-list');
@@ -25,5 +24,4 @@ const showContact = () => {
   contactSection.classList.remove('hide');
 };
 
-export {showList, showAddbook, showContact};
-
+export { showList, showAddbook, showContact };
